@@ -28,7 +28,11 @@ Gradio is an open-source tool that allows you to easily deploy machine learning 
 
 - [The app](https://huggingface.co/spaces/Tirendaz/pytorch_cat_vs_dog) we built in this project.
 - [Kaggle notebook](https://www.kaggle.com/code/tirendazacademy/experiment-tracking-with-comet-ml-pytorch) we used for experiment tracking.
-- [Comet ML dashboard](https://www.comet.com/tirendaz-academy/experiment-tracking/view/new/panels)
+- [Comet ML dashboard](https://www.comet.com/tirendaz-academy/experiment-tracking/view/new/panels) for experiment tracking.
+
+📌 Thanks for reading 😀 If you enjoy this repo, don't forget to give it a ✨
+
+🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
 
 ## Resources
 
@@ -36,6 +40,4 @@ Gradio is an open-source tool that allows you to easily deploy machine learning 
 - [Zero to Mastery Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)
 - [Modern Computer Vision with PyTorch](https://www.amazon.com/Modern-Computer-Vision-PyTorch-applications/dp/1839213477)
 
-📌 Thanks for reading 😀 If you enjoy this repo, don't forget to give it a ✨
 
-🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
