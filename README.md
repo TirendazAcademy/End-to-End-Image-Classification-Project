@@ -1,2 +1,1 @@
-# end-to-end-image-classification-project
-This project contains an end to end deep learning project with PyTorch, Comet ML and Gradio.
+Welcome to our end-to-end image classification deep learning project using Pytorch, Comet ML, and Gradio! This repository contains the code and resources needed to train and deploy a deep learning model for image classification. We will be using Pytorch as our deep learning framework, Comet ML for experiment tracking and management, and Gradio for model deployment. The project is designed to be easy to follow, with detailed explanations of each step in the process. Whether you're a beginner or an experienced deep learning practitioner, we hope you will find this project helpful and informative. So, let's get started!
