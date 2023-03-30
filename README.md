@@ -34,6 +34,10 @@ Gradio is an open-source tool that allows you to easily deploy machine learning 
 
 🔗 Let's connect [YouTube](http://youtube.com/tirendazacademy) | [Medium](http://tirendazacademy.medium.com) | [Twitter](http://twitter.com/tirendazacademy) | [Instagram](https://www.instagram.com/tirendazacademy) 😎
 
+## Medium Blog Post
+
+[End-to-end Deep Learning Project with PyTorch CometML](https://medium.com/cometheartbeat/end-to-end-deep-learning-project-with-pytorch-comet-ml-974d22c1cc65)
+
 ## Resources
 
 - [Comet for Data Science](https://www.packtpub.com/product/comet-for-data-science/9781801814430)
